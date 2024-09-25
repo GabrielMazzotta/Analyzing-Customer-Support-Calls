@@ -1,4 +1,4 @@
-<p><img alt="Phone Call" src="./customer_support_icon.jpg">
+<p><img alt="Phone Call" src="customer_support_icon.JPG">
 
 
 # Speech Recognition & Sentiment Analysis - Analyzing Customer Support Calls
